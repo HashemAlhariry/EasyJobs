@@ -1,2 +1,2 @@
 # EasyJobs
-Mobile Application that you can find small tasks 
+Mobile Application that you can find small tasks/jobs 
